@@ -1,0 +1,9 @@
+bio : None
+handle : vibes
+id : eYjvp
+is_verified : False
+location : Parksville, BC
+name : Squidboy 
+playlist_count : 0
+repost_count : 0
+track_count : 0

@@ -1,0 +1,11 @@
+bio : My attention span is short, and I have the music to prove it. Stumbled from the ocean. Thriving in the city.
+handle : pacificpatterns
+id : WQPqo
+is_verified : False
+location : Portland OR
+name : Pacific Patterns
+playlist_count : 0
+repost_count : 11
+track_count : 4
+follower_count : 116
+followee_count : 22
